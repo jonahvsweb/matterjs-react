@@ -1,6 +1,6 @@
-# Getting Started with Jonah vs Web: React Boilerplate
+# React x Matter.js
 
-This project was created from [Create React App](https://github.com/facebook/create-react-app) and stripped down to help bootstrap React projects quicker by me.
+I wanted to familiarize myself with [Matter.js](https://brm.io/matter-js/docs/classes/Matter.html) and how to utilize it in a React project, so I created this simple example following along, and tweaking, [this tutorial](https://www.fabiofranchino.com/blog/how-to-use-matter-js-in-react-functional-component/).
 
 ## Available Scripts
 
