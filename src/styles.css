@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Lato:wght@100;300;400;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #2a2a72;
+  background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+  font-family: "Lato", sans-serif;
+}
+
+.app {
+  width: 1000px;
+  min-height: 600px;
+  text-align: center;
+}
+
+img {
+  width: 80px;
+  margin: 10px 0;
+}
